@@ -1,8 +1,9 @@
 # UxChat: a chat tool
 ## Table of Contents
-- [Languages and Frameworks](#Languages-and-Frameworks)
+- [Developing languages and frameworks](#Developing-languages-and-frameworks)
 - [Installation](#Installation)
-## Languages and Frameworks
+- [License](#License)
+## Developing languages and frameworks
 **UxChat** is a chat tool based on [Python](https://docs.python.org/3/tutorial/index.html) and [Qt6](https://doc.qt.io/qtforpython-6/quickstart.html#quick-start).
 ## Installation
 - python3.8 版本下载 pyside6，import 报错。当前使用的 python 版本是 3.11.4<br>
@@ -14,3 +15,8 @@ python-3.11.4安装包路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Develop 
   - 运行 setup.bat,在当前目录下创建虚拟环境（**名为 venv 文件夹，不要提交到 svn**），并下载所需依赖（requirements 文件）<br>
 - 配置 vscode 环境<br>
   参考文档路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Configuration File\vscode+pyside6 开发环境搭建.docx`。
+## License
+[MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
+## Packaging
+[Packaging Docs](https://github.com/imc-ux/UxChat/blob/main/pyinstaller%E6%89%93%E5%8C%85.md)<br>
+[Go To Top](#Table-of-Contents)

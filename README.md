@@ -19,4 +19,6 @@ python-3.11.4安装包路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Develop 
 [MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
 ## Packaging
 [Packaging Docs](https://github.com/imc-ux/UxChat/blob/main/pyinstaller%E6%89%93%E5%8C%85.md)<br>
+<hr/>
+
 [Go To Top](#Table-of-Contents)

@@ -3,6 +3,7 @@
 - [Developing languages and frameworks](#Developing-languages-and-frameworks)
 - [Installation](#Installation)
 - [License](#License)
+- [Packaging](#Packaging)
 ## Developing languages and frameworks
 **UxChat** is a chat tool based on [Python](https://docs.python.org/3/tutorial/index.html) and [Qt6](https://doc.qt.io/qtforpython-6/quickstart.html#quick-start).
 ## Installation

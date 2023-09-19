@@ -31,7 +31,7 @@
   
 以下依赖（[requirements](https://github.com/imc-ux/UxChat/blob/main/requirements.txt)）都是在虚拟环境下安装:
 
-- 进入虚拟环境
+- 创建虚拟环境
   - Create environment (Your Python executable might be called python3):<br>
   ```sh
   python -m venv env

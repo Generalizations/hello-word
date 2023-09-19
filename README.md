@@ -4,6 +4,8 @@
 ## Table of Contents
 - [Main Features](#Main-Features)
 - [Where to get it](#Where-to-get-it)
+- [Dependencies](#Dependencies)
+- [Installation from sources](#Installation-from-sources)
 - [License](#License)
 - [Packaging](#Packaging)
 ## Main Features
@@ -19,15 +21,47 @@
 - 支持发送群公告
 - 支持用户修改头像
 ## Where to get it
-程序获取路径:[https://github.com/imc-ux/UxChat](https://github.com/imc-ux/UxChat)
-## Installation
-- python3.8 版本下载 pyside6，import 报错。当前使用的 python 版本是 3.11.4<br>
-python-3.11.4安装包路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Develop Files\python-3.11.4-amd64.exe`<br>
+源代码路径:[https://github.com/imc-ux/UxChat](https://github.com/imc-ux/UxChat)
+## Dependencies
+- python
+  - python3.8 版本下载 pyside6，import 报错。当前使用的 python 版本是 3.11.4<br>
+  - [python3.11.4](https://www.python.org/downloads/release/python-3114/)安装包路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Develop Files\python-3.11.4-amd64.exe`<br>
   > [!IMPORTANT]<br>
-  > 安装 3.11 版本，最好**不要添加环境变量**；如果将 3.11 添加到环境变量，当前聊天室@时不弹出，需要重新安装 requests、Pillow、PySimpleGUI 这三个插件
-- 安装环境依赖
-  - python3.11 安装后，修改 setup.bat 和 run.cmd 文件，将第 2 行 `SET PY_HOME=E:\Programs\Python\Python311\`路径**改为自己 python3.11 安装的路径**<br>
-  - 运行 setup.bat,在当前目录下创建虚拟环境（**名为 venv 文件夹，不要提交到 svn**），并下载所需依赖（requirements 文件）<br>
+  > 安装 3.11 版本，最好**不要添加环境变量**；如果将 3.11 添加到环境变量，当前聊天室@时不弹出，需要重新安装 requests、Pillow、PySimpleGUI 这三个插件<br>
+  
+以下依赖（[requirements](https://github.com/imc-ux/UxChat/blob/main/requirements.txt)）都是在虚拟环境下安装:
+
+- 进入虚拟环境
+  - Create environment (Your Python executable might be called python3):<br>
+  ```sh
+  python -m venv env
+  ```
+  - Activate the environment (Linux and macOS):
+  ```sh
+  source env/bin/activate
+  ```
+  - Activate the environment (Windows):
+  ```sh
+  env\Scripts\activate.bat
+  ```
+- [altgraph-a fork of graphlib](https://pypi.org/project/altgraph/)
+- [certifi-Python package for providing Mozilla's CA Bundle.](https://pypi.org/project/certifi/)
+- [chardet-Universal encoding detector for Python 3](https://pypi.org/project/chardet/)
+- [idna](https://pypi.org/project/idna/)
+- [pefile-Python PE parsing module](https://pypi.org/project/pefile/)
+- [pyinstaller-bundles a Python application and all its dependencies into a single package.](https://pyinstaller.org/en/stable/)
+- [pyinstaller-hooks-contrib-Community maintained hooks for PyInstaller](https://pypi.org/project/pyinstaller-hooks-contrib/)
+- [PySide6](https://pypi.org/project/PySide6/)
+- [pywin32-ctypes](https://pypi.org/project/pywin32-ctypes/0.1.1/)
+- [requests-Python HTTP for Humans](https://pypi.org/project/requests/)
+- [urllib3-HTTP library with thread-safe connection pooling, file post, and more](https://pypi.org/project/urllib3/)
+- [websocket-client-for Python with low level API options](https://pypi.org/project/websocket-client/)
+## Installation from sources
+除了Python以外，其他依赖的安装可以通过运行[setup.bat](https://github.com/imc-ux/UxChat/blob/main/setup.bat)，直接安装到虚拟环境下，具体操作如下：<br>
+- 修改文件<br>
+  python3.11 安装后，修改 [setup.bat](https://github.com/imc-ux/UxChat/blob/main/setup.bat) 和 [run.cmd](https://github.com/imc-ux/UxChat/blob/main/run.cmd) 文件，将第 2 行 `SET PY_HOME=E:\Programs\Python\Python311\`路径**改为自己 python3.11 安装的路径**<br>
+- 运行 setup.bat<br>
+  在当前目录下创建虚拟环境（**名为 venv 文件夹，不要提交到 svn**），并安装所需依赖（[requirements](https://github.com/imc-ux/UxChat/blob/main/requirements.txt)）<br>
 - 配置 vscode 环境<br>
   参考文档路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Configuration File\vscode+pyside6 开发环境搭建.docx`。
 ## License

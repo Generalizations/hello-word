@@ -19,7 +19,7 @@
 - 支持发送群公告
 - 支持用户修改头像
 ## Where to get it
-[程序获取路径](https://github.com/imc-ux/UxChat)
+程序获取路径:[https://github.com/imc-ux/UxChat](https://github.com/imc-ux/UxChat)
 ## Installation
 - python3.8 版本下载 pyside6，import 报错。当前使用的 python 版本是 3.11.4<br>
 python-3.11.4安装包路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Develop Files\python-3.11.4-amd64.exe`<br>

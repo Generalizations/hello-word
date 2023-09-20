@@ -33,7 +33,7 @@
 - 创建虚拟环境
   - Create environment (Your Python executable might be called python3):<br>
   ```sh
-  python -m venv env
+  python -m venv venv
   ```
   - Activate the environment (Linux and macOS):
   ```sh

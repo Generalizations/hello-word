@@ -65,8 +65,10 @@
   参考文档路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Configuration File\vscode+pyside6 开发环境搭建.docx`。
 ## License
 [MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
-<hr/>
+
 
 ## Discussion and Development
 大多数的开发讨论都经过[GitHub issue tracker](https://github.com/imc-ux/UxChat/issues)在GitHub进行<br>
+<hr/>
+
 [Go To Top](#Table-of-Contents)

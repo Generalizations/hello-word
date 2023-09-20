@@ -41,7 +41,7 @@
   ```
   - Activate the environment (Windows):
   ```sh
-  env\Scripts\activate.bat
+  venv\Scripts\activate.bat
   ```
 - [altgraph-a fork of graphlib](https://pypi.org/project/altgraph/)
 - [certifi-Python package for providing Mozilla's CA Bundle.](https://pypi.org/project/certifi/)

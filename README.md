@@ -8,6 +8,7 @@
 - [Installation from sources](#Installation-from-sources)
 - [License](#License)
 - [Discussion and Development](#Discussion-and-Development)
+- [Contributing to pandas](#Contributing-to-pandas)
 ## Main Features
 - 支持文字聊天：用户可以在所在群内和其他成员进行文字交流
 - 文件传输:用户可通过此平台直接将文件发送给群内其他成员
@@ -65,10 +66,10 @@
   参考文档路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Configuration File\vscode+pyside6 开发环境搭建.docx`。
 ## License
 [MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
-
-
 ## Discussion and Development
-大多数的开发讨论都经过[GitHub issue tracker](https://github.com/imc-ux/UxChat/issues)在GitHub进行<br>
+大多数的开发讨论都经过[GitHub issue tracker](https://github.com/imc-ux/UxChat/issues)在GitHub进行
+## Contributing to pandas
+
 <hr/>
 
 [Go To Top](#Table-of-Contents)

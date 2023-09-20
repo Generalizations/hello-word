@@ -7,6 +7,7 @@
 - [Dependencies](#Dependencies)
 - [Installation from sources](#Installation-from-sources)
 - [License](#License)
+- [Discussion and Development](#Discussion-and-Development)
 ## Main Features
 - 支持文字聊天：用户可以在所在群内和其他成员进行文字交流
 - 文件传输:用户可通过此平台直接将文件发送给群内其他成员
@@ -66,4 +67,6 @@
 [MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
 <hr/>
 
+## Discussion and Development
+大多数的开发讨论都经过[GitHub issue tracker](https://github.com/imc-ux/UxChat/issues)在GitHub进行
 [Go To Top](#Table-of-Contents)

@@ -7,7 +7,6 @@
 - [Dependencies](#Dependencies)
 - [Installation from sources](#Installation-from-sources)
 - [License](#License)
-- [Packaging](#Packaging)
 ## Main Features
 - 支持文字聊天：用户可以在所在群内和其他成员进行文字交流
 - 文件传输:用户可通过此平台直接将文件发送给群内其他成员
@@ -65,8 +64,6 @@
   参考文档路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Configuration File\vscode+pyside6 开发环境搭建.docx`。
 ## License
 [MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
-## Packaging
-[Packaging Docs](https://github.com/imc-ux/UxChat/blob/main/pyinstaller%E6%89%93%E5%8C%85.md)<br>
 <hr/>
 
 [Go To Top](#Table-of-Contents)

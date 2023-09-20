@@ -26,8 +26,7 @@
 - python
   - python3.8 版本下载 pyside6，import 报错。当前使用的 python 版本是 3.11.4<br>
   - [python3.11.4](https://www.python.org/downloads/release/python-3114/)安装包路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Develop Files\python-3.11.4-amd64.exe`<br>
-  > [!IMPORTANT]<br>
-  > 安装 3.11 版本，最好**不要添加环境变量**；如果将 3.11 添加到环境变量，当前聊天室@时不弹出，需要重新安装 requests、Pillow、PySimpleGUI 这三个插件<br>
+安装 3.11 版本，最好**不要添加环境变量**；如果将 3.11 添加到环境变量，当前聊天室@时不弹出，需要重新安装 requests、Pillow、PySimpleGUI 这三个插件<br>
   
 以下依赖（[requirements](https://github.com/imc-ux/UxChat/blob/main/requirements.txt)）都是在虚拟环境下安装:
 

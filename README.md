@@ -68,5 +68,5 @@
 <hr/>
 
 ## Discussion and Development
-大多数的开发讨论都经过[GitHub issue tracker](https://github.com/imc-ux/UxChat/issues)在GitHub进行
+大多数的开发讨论都经过[GitHub issue tracker](https://github.com/imc-ux/UxChat/issues)在GitHub进行<br>
 [Go To Top](#Table-of-Contents)

@@ -51,7 +51,7 @@
 - [pyinstaller-bundles a Python application and all its dependencies into a single package.](https://pyinstaller.org/en/stable/)
 - [pyinstaller-hooks-contrib-Community maintained hooks for PyInstaller](https://pypi.org/project/pyinstaller-hooks-contrib/)
 - [PySide6](https://pypi.org/project/PySide6/)
-- [pywin32-ctypes](https://pypi.org/project/pywin32-ctypes/0.1.1/)
+- [pywin32-ctypes](https://pypi.org/project/pywin32-ctypes/)
 - [requests-Python HTTP for Humans](https://pypi.org/project/requests/)
 - [urllib3-HTTP library with thread-safe connection pooling, file post, and more](https://pypi.org/project/urllib3/)
 - [websocket-client-for Python with low level API options](https://pypi.org/project/websocket-client/)

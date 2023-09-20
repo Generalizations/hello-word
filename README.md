@@ -69,7 +69,13 @@
 ## Discussion and Development
 大多数的开发讨论都经过[GitHub issue tracker](https://github.com/imc-ux/UxChat/issues)在GitHub进行
 ## Contributing to pandas
-
+- 将项目导出到本地
+- Creating a feature branch
+- Making code changes
+- Pushing your changes
+- Making a pull request
+- updating your pull request
+- merge
 <hr/>
 
 [Go To Top](#Table-of-Contents)

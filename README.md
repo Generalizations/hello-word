@@ -10,8 +10,7 @@
 - [Dependencies](#Dependencies)
 - [Development](#Development)
 - [License](#License)
-- [Discussion and Development](#Discussion-and-Development)
-- [Contributing to pandas](#Contributing-to-pandas)
+- [Production](#Production)
 ## Where to get it
 SSH路径
 ```ssh
@@ -33,16 +32,8 @@ git@github.com:imc-ux/UxChat.git
   参考文档路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Configuration File\vscode+pyside6 开发环境搭建.docx`。
 ## License
 [MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
-## Discussion and Development
-大多数的开发讨论都经过[GitHub issue tracker](https://github.com/imc-ux/UxChat/issues)在GitHub进行
-## Contributing to pandas
-- 将项目导出到本地
-- Creating a feature branch
-- Making code changes
-- Pushing your changes
-- Making a pull request
-- updating your pull request
-- merge
+## Production
+[Packing Guide]()
 <hr/>
 
 [Go To Top](#Table-of-Contents)

@@ -2,6 +2,7 @@
 |||
 | --- | --- |
 |construction|[![PySide6 v6.5.1.1](https://img.shields.io/badge/PySide6-v6.5.1.1-00DC82.svg)](https://doc.qt.io/qtforpython-6/index.html)|
+|||
 ## What is it?
 **UxChat**是一种基于 [Python](https://www.python.org/) 和 [Qt6](https://doc.qt.io/qtforpython-6/quickstart.html#quick-start)的聊天工具。它支持文件传输、自动保存聊天记录、实时的新消息提醒、显示消息状态(未读/已读)、用户在线状态、创建群组、添加群组成员等功能。它的作用是方便用户进行高效交流、发送文件，帮助用户保留重要的信息。除此之外，用户可以根据自己的需求修改字体、发送表情包。
 ## Table of Contents

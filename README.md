@@ -4,27 +4,14 @@
 |construction|[![PySide6 v6.5.1.1](https://img.shields.io/badge/PySide6-v6.5.1.1-00DC82.svg)](https://doc.qt.io/qtforpython-6/index.html)|
 |||
 ## What is it?
-**UxChat**是一种基于 [Python](https://www.python.org/) 和 [Qt6](https://doc.qt.io/qtforpython-6/quickstart.html#quick-start)的聊天工具。它支持文件传输、自动保存聊天记录、实时的新消息提醒、显示消息状态(未读/已读)、用户在线状态、创建群组、添加群组成员等功能。它的作用是方便用户进行高效交流、发送文件，帮助用户保留重要的信息。除此之外，用户可以根据自己的需求修改字体、发送表情包。
+**UxChat**是一种基于 [Python](https://www.python.org/) 和 [Qt6](https://doc.qt.io/qtforpython-6/quickstart.html#quick-start)的聊天工具。
 ## Table of Contents
-- [Main Features](#Main-Features)
 - [Where to get it](#Where-to-get-it)
 - [Dependencies](#Dependencies)
 - [Installation from sources](#Installation-from-sources)
 - [License](#License)
 - [Discussion and Development](#Discussion-and-Development)
 - [Contributing to pandas](#Contributing-to-pandas)
-## Main Features
-- 支持文字聊天：用户可以在所在群内和其他成员进行文字交流
-- 文件传输:用户可通过此平台直接将文件发送给群内其他成员
-- 群管理：用户可以新建群、退出群、解散群
-- 群成员管理：群管理员可以向群内添加成员
-- 消息记录：支持保存用户的聊天记录，用户可以查看历史记录
-- 新消息提醒：用户所在群有新消息时，平台会高亮提醒
-- 显示用户的在线状态（在线/离线）
-- 显示消息状态（已读/未读）
-- 支持用户发送表情包，修改消息字体及字体颜色
-- 支持发送群公告
-- 支持用户修改头像
 ## Where to get it
 源代码路径:[https://github.com/imc-ux/UxChat](https://github.com/imc-ux/UxChat)
 ## Dependencies

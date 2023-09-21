@@ -8,7 +8,7 @@
 ## Table of Contents
 - [Where to get it](#Where-to-get-it)
 - [Dependencies](#Dependencies)
-- [Installation from sources](#Installation-from-sources)
+- [Development](#Development)
 - [License](#License)
 - [Discussion and Development](#Discussion-and-Development)
 - [Contributing to pandas](#Contributing-to-pandas)
@@ -24,21 +24,8 @@
   python3.11 安装后，修改 [setup.bat](https://github.com/imc-ux/UxChat/blob/main/setup.bat) 和 [run.cmd](https://github.com/imc-ux/UxChat/blob/main/run.cmd) 文件，将第 2 行 `SET PY_HOME=E:\Programs\Python\Python311\`路径**改为自己 python3.11 安装的路径**<br>
 - 运行 setup.bat<br>
   在当前目录下创建虚拟环境（**名为 venv 文件夹，不要提交到 svn**），并安装所需依赖（[requirements](https://github.com/imc-ux/UxChat/blob/main/requirements.txt)）<br>
-- [altgraph-a fork of graphlib](https://pypi.org/project/altgraph/)
-- [certifi-Python package for providing Mozilla's CA Bundle.](https://pypi.org/project/certifi/)
-- [chardet-Universal encoding detector for Python 3](https://pypi.org/project/chardet/)
-- [idna](https://pypi.org/project/idna/)
-- [pefile-Python PE parsing module](https://pypi.org/project/pefile/)
-- [pyinstaller-bundles a Python application and all its dependencies into a single package.](https://pyinstaller.org/en/stable/)
-- [pyinstaller-hooks-contrib-Community maintained hooks for PyInstaller](https://pypi.org/project/pyinstaller-hooks-contrib/)
-- [PySide6](https://pypi.org/project/PySide6/)
-- [pywin32-ctypes](https://pypi.org/project/pywin32-ctypes/)
-- [requests-Python HTTP for Humans](https://pypi.org/project/requests/)
-- [urllib3-HTTP library with thread-safe connection pooling, file post, and more](https://pypi.org/project/urllib3/)
-- [websocket-client-for Python with low level API options](https://pypi.org/project/websocket-client/)
-## Installation from sources
-除了Python以外，其他依赖的安装可以通过运行[setup.bat](https://github.com/imc-ux/UxChat/blob/main/setup.bat)，直接安装到虚拟环境下，具体操作如下：<br>
 
+## Development
 - 配置 vscode 环境<br>
   参考文档路径：`V2 2nd DEV\001.SPECIFICATION\CN\UX Part\Configuration File\vscode+pyside6 开发环境搭建.docx`。
 ## License

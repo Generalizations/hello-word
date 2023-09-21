@@ -13,7 +13,10 @@
 - [Discussion and Development](#Discussion-and-Development)
 - [Contributing to pandas](#Contributing-to-pandas)
 ## Where to get it
-源代码路径:[https://github.com/imc-ux/UxChat](https://github.com/imc-ux/UxChat)
+SSH路径
+```ssh
+git@github.com:imc-ux/UxChat.git
+```
 ## Dependencies
 - python
   - python3.8 版本下载 pyside6，import 报错。当前使用的 python 版本是 3.11.4<br>

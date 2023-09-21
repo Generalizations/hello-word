@@ -36,7 +36,7 @@
   venv\Scripts\activate.bat
   ```
 - [altgraph-a fork of graphlib](https://pypi.org/project/altgraph/)
-- [certifi-Python package for providing Mozilla's CA Bundle.](https://pypi.org/project/chardet/4.0.0/)
+- [certifi-Python package for providing Mozilla's CA Bundle.](https://pypi.org/project/certifi/)
 - [chardet-Universal encoding detector for Python 3](https://pypi.org/project/chardet/)
 - [idna](https://pypi.org/project/idna/)
 - [pefile-Python PE parsing module](https://pypi.org/project/pefile/)

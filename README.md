@@ -17,7 +17,7 @@
 ## Dependencies
 1. 当前使用的 python 版本是[v3.11.4](),安装 3.11 版本，最好**不要添加环境变量**；如果将 3.11 添加到环境变量，当前聊天室@时不弹出，需要重新安装 requests、Pillow、PySimpleGUI 这三个插件。python3.8 版本下载 pyside6，import 报错。
 2. python3.11 安装后，修改 [setup.bat](https://github.com/imc-ux/UxChat/blob/main/setup.bat) 和 [run.cmd](https://github.com/imc-ux/UxChat/blob/main/run.cmd) 文件，将第 2 行 `SET PY_HOME=E:\Programs\Python\Python311\`路径**改为自己 python3.11 安装的路径**，运行 setup.bat。<br>
-3. [配置 vscode 环境]()
+3. [配置 vscode 环境](https://github.com/imc-ux/UxChat/blob/main/docs/vscode_config.md)
 ## Development
 - 将UxChat导入到本地
   ```
@@ -37,7 +37,7 @@
 ## License
 [MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
 ## Production
-[安装导向]()
+[安装导向](https://github.com/imc-ux/UxChat/blob/main/docs/pyinstaller.md)
 <hr/>
 
 [Go To Top](#Table-of-Contents)

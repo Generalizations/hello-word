@@ -19,11 +19,25 @@
 2. python3.11 安装后，修改 [setup.bat](https://github.com/imc-ux/UxChat/blob/main/setup.bat) 和 [run.cmd](https://github.com/imc-ux/UxChat/blob/main/run.cmd) 文件，将第 2 行 `SET PY_HOME=E:\Programs\Python\Python311\`路径**改为自己 python3.11 安装的路径**，运行 setup.bat。<br>
 3. [配置 vscode 环境]()
 ## Development
-
+- 将UxChat导入到本地
+  ```
+  git init
+  git remote add origin git@github.com:imc-ux/UxChat.git
+  git pull origin branch
+  ```
+- 代码修改后提交到github
+  ```
+  git init
+  git add
+  git commit -m "first commit"
+  git branch -M 分支名
+  git remote add origin git@github.com:imc-ux/UxChat.git
+  git push -u origin 分支名
+  ```
 ## License
 [MIT](https://github.com/imc-ux/UxChat/blob/main/LICENSE)
 ## Production
-[Packing Guide]()
+[安装导向]()
 <hr/>
 
 [Go To Top](#Table-of-Contents)

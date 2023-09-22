@@ -1,7 +1,7 @@
 # UxChat: a chat tool
 |||
 | --- | --- |
-|package|[![PySide6 v6.5.1.1](https://img.shields.io/badge/PySide6-v6.5.1.1-efa18d.svg)](https://doc.qt.io/qtforpython-6/index.html) [![Python v3.11.4](https://img.shields.io/badge/python-v3.11.4-a3d9a2.svg)](https://www.python.org/downloads/release/python-3114/)|
+|package|[![PySide6 v6.5.1.1](https://img.shields.io/badge/PySide6-v6.5.1.1-f5e8c8.svg)](https://doc.qt.io/qtforpython-6/index.html) [![Python v3.11.4](https://img.shields.io/badge/python-v3.11.4-a3d9c2.svg)](https://www.python.org/downloads/release/python-3114/)|
 |||
 ## What is it?
 **UxChat**是基于 [Python](https://www.python.org/) 和 [Qt6](https://doc.qt.io/qtforpython-6/quickstart.html#quick-start)的聊天工具。

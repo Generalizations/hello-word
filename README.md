@@ -23,12 +23,12 @@
   ```
   git init
   git remote add origin git@github.com:imc-ux/UxChat.git
-  git pull origin branch
+  git pull origin 分支名
   ```
 - 代码修改后提交到github
   ```
   git init
-  git add
+  git add 文件名
   git commit -m "first commit"
   git branch -M 分支名
   git remote add origin git@github.com:imc-ux/UxChat.git
